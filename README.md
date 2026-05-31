@@ -28,7 +28,7 @@ We use the **BreastMNIST** dataset from the MedMNIST collection, consisting of 7
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/medical-image-classification.git
+   git clone https://github.com/Aleksander-Romanha/medical-image-classification.git
    cd medical-image-classification
    ```
 
@@ -39,7 +39,7 @@ We use the **BreastMNIST** dataset from the MedMNIST collection, consisting of 7
 
 3. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook efc2_classification_knn_logistic.ipynb
+   jupyter notebook classification_knn_logistic.ipynb
    ```
 
 ## 📈 Results
